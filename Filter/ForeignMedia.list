@@ -96,13 +96,6 @@ DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,ForeignMedia
 USER-AGENT,HWTVMobile*,ForeignMedia
 DOMAIN-SUFFIX,5itv.tv,ForeignMedia
 DOMAIN-SUFFIX,ocnttv.com,ForeignMedia
-# > Hulu
-DOMAIN-SUFFIX,hulu.com,ForeignMedia
-DOMAIN-SUFFIX,huluim.com,ForeignMedia
-DOMAIN-SUFFIX,hulustream.com,ForeignMedia
-# > Hulu(フールー)
-DOMAIN-SUFFIX,happyon.jp,ForeignMedia
-DOMAIN-SUFFIX,hulu.jp,ForeignMedia
 # > ITV
 USER-AGENT,ITV_Player*,ForeignMedia
 DOMAIN-SUFFIX,itv.com,ForeignMedia
