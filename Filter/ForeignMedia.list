@@ -49,44 +49,18 @@ DOMAIN,abematv.akamaized.net,ForeignMedia
 DOMAIN,ds-linear-abematv.akamaized.net,ForeignMedia
 DOMAIN,ds-vod-abematv.akamaized.net,ForeignMedia
 DOMAIN,linear-abematv.akamaized.net,ForeignMedia
-# > Amazon Prime Video
-USER-AGENT,InstantVideo.US*,ForeignMedia
-USER-AGENT,Prime%20Video*,ForeignMedia
-DOMAIN-SUFFIX,aiv-cdn.net,ForeignMedia
-DOMAIN-SUFFIX,aiv-delivery.net,ForeignMedia
-DOMAIN-SUFFIX,amazonvideo.com,ForeignMedia
-DOMAIN-SUFFIX,primevideo.com,ForeignMedia
-DOMAIN,avodmp4s3ww-a.akamaihd.net,ForeignMedia
-DOMAIN,d25xi40x97liuc.cloudfront.net,ForeignMedia
-DOMAIN,dmqdd6hw24ucf.cloudfront.net,ForeignMedia
-DOMAIN,d22qjgkvxw22r6.cloudfront.net,ForeignMedia
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net,ForeignMedia
-DOMAIN-KEYWORD,avoddashs,ForeignMedia
 # > Bahamut
 USER-AGENT,Anime*,ForeignMedia
 DOMAIN-SUFFIX,bahamut.com.tw,ForeignMedia
 DOMAIN-SUFFIX,gamer.com.tw,ForeignMedia
 DOMAIN,gamer-cds.cdn.hinet.net,ForeignMedia
 DOMAIN,gamer2-cds.cdn.hinet.net,ForeignMedia
-# > BBC iPlayer
-USER-AGENT,BBCiPlayer*,ForeignMedia
-DOMAIN-SUFFIX,bbc.co.uk,ForeignMedia
-DOMAIN-SUFFIX,bbci.co.uk,ForeignMedia
-DOMAIN-KEYWORD,bbcfmt,ForeignMedia
-DOMAIN-KEYWORD,uk-live,ForeignMedia
 # > DAZN
 USER-AGENT,DAZN*,ForeignMedia
 DOMAIN-SUFFIX,dazn.com,ForeignMedia
 DOMAIN-SUFFIX,dazn-api.com,ForeignMedia
 DOMAIN,d151l6v8er5bdm.cloudfront.net,ForeignMedia
 DOMAIN-KEYWORD,voddazn,ForeignMedia
-# > Disney+
-USER-AGENT,Disney+*,ForeignMedia
-DOMAIN-SUFFIX,bamgrid.com,ForeignMedia
-DOMAIN-SUFFIX,disney-plus.net,ForeignMedia
-DOMAIN-SUFFIX,disneyplus.com,ForeignMedia
-DOMAIN-SUFFIX,dssott.com,ForeignMedia
-DOMAIN,cdn.registerdisney.go.com,ForeignMedia
 # > encoreTVB
 USER-AGENT,encoreTVB*,ForeignMedia
 DOMAIN-SUFFIX,encoretvb.com,ForeignMedia
@@ -156,34 +130,6 @@ DOMAIN,d349g9zuie06uo.cloudfront.net,ForeignMedia
 USER-AGENT,mytv*,ForeignMedia
 DOMAIN-SUFFIX,mytvsuper.com,ForeignMedia
 DOMAIN-SUFFIX,tvb.com,ForeignMedia
-# > Netflix
-USER-AGENT,Argo*,ForeignMedia
-DOMAIN-SUFFIX,netflix.com,ForeignMedia
-DOMAIN-SUFFIX,netflix.net,ForeignMedia
-DOMAIN-SUFFIX,nflxext.com,ForeignMedia
-DOMAIN-SUFFIX,nflximg.com,ForeignMedia
-DOMAIN-SUFFIX,nflximg.net,ForeignMedia
-DOMAIN-SUFFIX,nflxso.net,ForeignMedia
-DOMAIN-SUFFIX,nflxvideo.net,ForeignMedia
-DOMAIN-SUFFIX,netflixdnstest0.com,ForeignMedia
-DOMAIN-SUFFIX,netflixdnstest1.com,ForeignMedia
-DOMAIN-SUFFIX,netflixdnstest2.com,ForeignMedia
-DOMAIN-SUFFIX,netflixdnstest3.com,ForeignMedia
-DOMAIN-SUFFIX,netflixdnstest4.com,ForeignMedia
-DOMAIN-SUFFIX,netflixdnstest5.com,ForeignMedia
-DOMAIN-SUFFIX,netflixdnstest6.com,ForeignMedia
-DOMAIN-SUFFIX,netflixdnstest7.com,ForeignMedia
-DOMAIN-SUFFIX,netflixdnstest8.com,ForeignMedia
-DOMAIN-SUFFIX,netflixdnstest9.com,ForeignMedia
-IP-CIDR,23.246.0.0/18,ForeignMedia
-IP-CIDR,37.77.184.0/21,ForeignMedia
-IP-CIDR,45.57.0.0/17,ForeignMedia
-IP-CIDR,64.120.128.0/17,ForeignMedia
-IP-CIDR,66.197.128.0/17,ForeignMedia
-IP-CIDR,108.175.32.0/20,ForeignMedia
-IP-CIDR,192.173.64.0/18,ForeignMedia
-IP-CIDR,198.38.96.0/19,ForeignMedia
-IP-CIDR,198.45.48.0/20,ForeignMedia
 # > niconico
 USER-AGENT,Niconico*,ForeignMedia
 DOMAIN-SUFFIX,dmc.nico,ForeignMedia
@@ -215,9 +161,3 @@ DOMAIN,api.viu.now.com,ForeignMedia
 DOMAIN,d1k2us671qcoau.cloudfront.net,ForeignMedia
 DOMAIN,d2anahhhmp1ffz.cloudfront.net,ForeignMedia
 DOMAIN,dfp6rglgjqszk.cloudfront.net,ForeignMedia
-# > YouTube
-USER-AGENT,com.google.ios.youtube*,ForeignMedia
-USER-AGENT,YouTube*,ForeignMedia
-DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
-DOMAIN-SUFFIX,youtube.com,ForeignMedia
-DOMAIN,youtubei.googleapis.com,ForeignMedia
