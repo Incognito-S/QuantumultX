@@ -485,7 +485,6 @@ DOMAIN-SUFFIX,webrtc.org,PROXY
 DOMAIN-SUFFIX,whatbrowser.org,PROXY
 DOMAIN-SUFFIX,widevine.com,PROXY
 DOMAIN-SUFFIX,x.company,PROXY
-DOMAIN-SUFFIX,youtu.be,PROXY
 DOMAIN-SUFFIX,yt.be,PROXY
 DOMAIN-SUFFIX,ytimg.com,PROXY
 # > Microsoft
