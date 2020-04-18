@@ -1,3 +1,3 @@
 http=music.desperadoj.com:30002, username=Netease Music, password=none, fast-open=false, udp-relay=false, tag=🇨🇳 网易云解锁 公益节点
-http=118.89.139.123:23253, username=none, password=none, fast-open=false, udp-relay=false, tag=🇨🇳 网易云解锁 腾讯云
-http=47.100.62.121:23333, username=none, password=none, fast-open=false, udp-relay=false, tag=🇨🇳 网易云解锁 阿里云
+http=118.89.139.123:23253, username=none, password=none, fast-open=false, udp-relay=false, tag=🇨🇳 网易云解锁 腾讯云 1Mbps
+http=47.100.62.121:23333, username=none, password=none, fast-open=false, udp-relay=false, tag=🇨🇳 网易云解锁 阿里云 5Mbps
