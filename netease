@@ -1,3 +1,4 @@
 http=47.100.79.174 :80, username=none, password=none, fast-open=false, udp-relay=false, tag=aliyun
 ss://YWVzLTEyOC1nY206UVEzMjAzNDM0MTgyQHhibW13Lnh5ejo1Njkx#%E5%85%AC%E4%BC%97%E5%8F%B7:%E5%B0%8F%E7%99%BD%E5%A6%99%E5%A6%99%E5%B1%8B%7C%E7%BD%91%E6%98%93%E4%BA%91%E8%8A%82%E7%82%B9
 shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶 解锁
+shadowsocks=47.100.79.174:30001, method=aes-128-gcm, password=syj18761782628, fast-open=false, udp-relay=false, tag=aliyun解锁
