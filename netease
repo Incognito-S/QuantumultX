@@ -1,2 +1,3 @@
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎶 解锁
-shadowsocks=47.100.79.174:30001, method=aes-128-gcm, password=syj18761782628, fast-open=false, udp-relay=false, tag=aliyun解锁
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=Unlock Server 1
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=Unlock Server 2
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=Unlock Server 3
