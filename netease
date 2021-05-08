@@ -1,3 +1,8 @@
 shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=Unlock Server 1
 http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=Unlock Server 2
 http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=Unlock Server 3
+http=aimer.one:3333,fast-open=false, udp-relay=false, tag=Unlock Server 4
+http=block4music.poetyin.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=Unlock Server 5
+http=3music.poetyin.me:100, over-tls=false, fast-open=false, udp-relay=false, tag=Unlock Server 6
+http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=Unlock Server 7
+http=taron.top:100, over-tls=false, fast-open=false, udp-relay=false, tag=Unlock Server 8
