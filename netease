@@ -5,4 +5,5 @@ http=aimer.one:3333,fast-open=false, udp-relay=false, tag=Unlock Server 4
 http=block4music.poetyin.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=Unlock Server 5
 http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=Unlock Server 6
 http=34.92.129.82:2021,fast-open=false, udp-relay=false, tag=Unlock Server 7
-- {name: "NeteaseUnblock-HK-PlusMedia-IOS", server: proxy.plusmedia.site, port: 58081, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ}
+proxies:
+  - {name: "NeteaseUnblock-HK-PlusMedia-IOS", server: proxy.plusmedia.site, port: 58081, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ}
