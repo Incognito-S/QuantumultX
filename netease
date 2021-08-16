@@ -6,4 +6,6 @@ http=block4music.poetyin.me:39000, over-tls=false, fast-open=false, udp-relay=fa
 http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=Unlock Server 6
 http=34.92.129.82:2021,fast-open=false, udp-relay=false, tag=Unlock Server 7
 http=43.128.37.178:2021,fast-open=false, udp-relay=false, tag=网易云解锁节点2 | 飞享一刻
+http=43.128.37.178:2020,fast-open=false, udp-relay=false, tag=网易云解锁节点1 | 飞享一刻
+
 
